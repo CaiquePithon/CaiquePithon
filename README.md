@@ -1,6 +1,7 @@
 ## Ola! Eu sou Caique Pithon
 
 
-- 💻 Estudante de Analise e Desenvolvimento de Sistemas na Universidade Catolica de Salvador (UCSAL)
+- 🎓 Estudante de Analise e Desenvolvimento de Sistemas pela Universidade Católica de Salvador (UCSal).
+- 💻 Estudando Java e Python 
 - 🌎 Brasil, Salvador Bahia
-- 
+  
