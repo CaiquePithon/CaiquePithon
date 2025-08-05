@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=32CD32&width=435&lines=Caique+Pithon)](https://git.io/typing-svg)
 
-- Graduando em Analise e Desenvolvimento de Sistemas 
+- Graduando em Analise e Desenvolvimento de Sistemas
+- Dois anos de Estudos na Área de Tecnologia
+- Estagiando em Uma Empresa de Redes e Segurança
 <!-- - Estagiando na Íntegra Manutenção e Intalação de Equipamentos de Segurança -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaiquePithon&show_icons=true&theme=merko) -->
 
