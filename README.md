@@ -16,3 +16,15 @@ My stats:
 </a>
 </center>
 
+<h2>
+Some of the projects that I'm working on:
+</h2>
+
+<center>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaiquePithon&repo=Jogo-do-Numero-Secreto&bg_color=00000000&theme=vision-friendly-dark&title_color=32CD32&icon_color=7438b7)](https://github.com/CaiquePithon/Jogo-do-Numero-Secreto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaiquePithon&repo=EstruturaDeDados&bg_color=00000000&theme=vision-friendly-dark&title_color=32CD32&icon_color=7438b7)](https://github.com/CaiquePithon/EstruturaDeDados)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaiquePithon&repo=ListaListaEncadeada&bg_color=00000000&theme=vision-friendly-dark&title_color=32CD32&icon_color=7438b7)](https://github.com/CaiquePithon/ListaListaEncadeada)
+</br>
+
+</center>
