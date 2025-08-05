@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&pause=1000&color=32CD32&width=435&lines=Caique+Pithon)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=37&pause=1000&color=32CD32&width=480&lines=Caique+Pithon)](https://git.io/typing-svg)
 
 - Graduando em Analise e Desenvolvimento de Sistemas
 - Dois anos de Estudos na Área de Tecnologia
