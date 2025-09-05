@@ -2,7 +2,7 @@
 
 - Graduando em Analise e Desenvolvimento de Sistemas
 - Dois anos de Estudo na Área de Tecnologia
-- Estagiando em Uma Empresa de Redes e Segurança
+- Estagiando em uma empresa de Redes e Segurança
 <!-- - Estagiando na Íntegra Manutenção e Intalação de Equipamentos de Segurança -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaiquePithon&show_icons=true&theme=merko) -->
 
@@ -51,8 +51,8 @@ My stats:
 
 <a href="https://github.com/victor-vd">
 <center>
-    <img align="center" style="height: 190px;" alt="Caique Pithon Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiquePithon&layout=compact&show_icons=true&bg_color=00000000&theme=vision-friendly-dark&title_color=32CD32&icon_color=7438b7">
-    <img align="center" style="height: 190px;" alt="Victor Dantas's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=CaiquePithon&show_icons=true&bg_color=00000000&theme=vision-friendly-dark&title_color=32CD32&icon_color=7438b7">
+    <img align="center" style="height: 180px;" alt="Caique Pithon Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiquePithon&layout=compact&show_icons=true&bg_color=00000000&theme=vision-friendly-dark&title_color=32CD32&icon_color=7438b7">
+    <img align="center" style="height: 180px;" alt="Victor Dantas's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=CaiquePithon&show_icons=true&bg_color=00000000&theme=vision-friendly-dark&title_color=32CD32&icon_color=7438b7">
 </center>
 </a>
 </center>
