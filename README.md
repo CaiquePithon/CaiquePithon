@@ -49,7 +49,7 @@ IDEs that I use the most:
 My stats:
 </h2>
 
-<a href="https://github.com/victor-vd">
+<a href="https://github.com/CaiquePithon">
 <center>
     <img align="center" style="height: 180px;" alt="Caique Pithon Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiquePithon&layout=compact&show_icons=true&bg_color=00000000&theme=vision-friendly-dark&title_color=32CD32&icon_color=7438b7">
     <img align="center" style="height: 180px;" alt="Victor Dantas's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=CaiquePithon&show_icons=true&bg_color=00000000&theme=vision-friendly-dark&title_color=32CD32&icon_color=7438b7">
