@@ -3,8 +3,8 @@
 - Graduando em Analise e Desenvolvimento de Sistemas
 - Dois anos de Estudo na Área de Tecnologia
 - Estagiando em uma empresa de Redes e Segurança
-<!-- - Estagiando na Íntegra Manutenção e Intalação de Equipamentos de Segurança -->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaiquePithon&show_icons=true&theme=merko) -->
+  <!-- - Estagiando na Íntegra Manutenção e Intalação de Equipamentos de Segurança -->
+  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaiquePithon&show_icons=true&theme=merko) -->
 
 ## My social accounts:
 
@@ -44,29 +44,72 @@ IDEs that I use the most:
     <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
 
-
 <h2>
 My stats:
 </h2>
 
 <a href="https://github.com/CaiquePithon">
-<center>
-    <img align="center" style="height: 180px;" alt="Caique Pithon Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiquePithon&layout=compact&show_icons=true&bg_color=00000000&theme=vision-friendly-dark&title_color=32CD32&icon_color=7438b7">
-    <img align="center" style="height: 180px;" alt="Caique Pithon GitHub stats" src="https://github-readme-stats.vercel.app/api?username=CaiquePithon&show_icons=true&bg_color=00000000&theme=vision-friendly-dark&title_color=32CD32&icon_color=7438b7">
-</center>
+<div style="display:flex; justify-content:center; gap:10px;">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiquePithon&layout=compact&show_icons=true&bg_color=0D1117&theme=vision-friendly-dark&title_color=32CD32&icon_color=7438b7"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiquePithon&layout=compact&show_icons=true&bg_color=FFFFFF&theme=default&title_color=32CD32&icon_color=7438b7"
+    />
+    <img style="height: 180px;" alt="Caique Pithon Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiquePithon&layout=compact&show_icons=true&bg_color=FFFFFF&theme=default&title_color=32CD32&icon_color=7438b7" />
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=CaiquePithon&show_icons=true&bg_color=0D1117&theme=vision-friendly-dark&title_color=32CD32&icon_color=7438b7"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=CaiquePithon&show_icons=true&bg_color=FFFFFF&theme=default&title_color=32CD32&icon_color=7438b7"
+    />
+    <img style="height: 180px;" alt="Caique Pithon GitHub stats" src="https://github-readme-stats.vercel.app/api?username=CaiquePithon&show_icons=true&bg_color=FFFFFF&theme=default&title_color=32CD32&icon_color=7438b7" />
+  </picture>
+</div>
 </a>
-</center>
 
 <h2>
 Some of the projects that I'm working on:
 </h2>
 
-<center>
+<div style="display:flex; justify-content:center; gap:10px">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaiquePithon&repo=Jogo-do-Numero-Secreto&bg_color=00000000&theme=vision-friendly-dark&title_color=32CD32&icon_color=7438b7)](https://github.com/CaiquePithon/Jogo-do-Numero-Secreto)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaiquePithon&repo=EstruturaDeDados&bg_color=00000000&theme=vision-friendly-dark&title_color=32CD32&icon_color=7438b7)](https://github.com/CaiquePithon/EstruturaDeDados)
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaiquePithon&repo=ListaListaEncadeada&bg_color=00000000&theme=vision-friendly-dark&title_color=32CD32&icon_color=7438b7)](https://github.com/CaiquePithon/ListaListaEncadeada)-->
+<div style="display:flex; justify-content:center; gap:10px;">
+    <a href="https://github.com/CaiquePithon/Jogo-do-Numero-Secreto">
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=CaiquePithon&repo=Jogo-do-Numero-Secreto&bg_color=0D1117&theme=vision-friendly-dark&title_color=32CD32&icon_color=7438b7"
+        />
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=CaiquePithon&repo=Jogo-do-Numero-Secreto&bg_color=FFFFFF&theme=default&title_color=32CD32&icon_color=7438b7"
+        />
+        <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api/pin/?username=CaiquePithon&repo=Jogo-do-Numero-Secreto&theme=default" />
+      </picture>
+    </a>
+    <a href="https://github.com/CaiquePithon/EstruturaDeDados">
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=CaiquePithon&repo=EstruturaDeDados&bg_color=0D1117&theme=vision-friendly-dark&title_color=32CD32&icon_color=7438b7"
+        />
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=CaiquePithon&repo=EstruturaDeDados&bg_color=FFFFFF&theme=default&title_color=32CD32&icon_color=7438b7"
+        />
+        <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api/pin/?username=CaiquePithon&repo=EstruturaDeDados&theme=default" />
+      </picture>
+    </a>
+</div>
 
 </br>
 
-</center>
+</div>
